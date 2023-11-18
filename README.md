@@ -46,8 +46,12 @@ Correo: micjejim@espol.edu.ec
 
 ##Tecnologias usadas en los proyectos
 
--HTML
--CSS
--Bootstrap
--JavaScript
+- HTML
+
+- CSS
+
+- Bootstrap
+
+- JavaScript
+
 
