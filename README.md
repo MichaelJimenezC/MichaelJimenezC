@@ -1,6 +1,7 @@
 # Repositorio Personal
-# Michael Jiménez
 ## Información de contacto
+Nombre: Michael Jiménez
+Carrera: Ingeniería en Computación
 Universidad: Espol
 Correo: micjejim@espol.edu.ec
 ## Proyectos
