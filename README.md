@@ -15,4 +15,9 @@ Correo: micjejim@espol.edu.ec
 - Whatsapp clone
 [Weather Dashboard](https://github.com/MichaelJimenezC/chat.git)
 ![Weather Dashboard](img/michaeljimenezc.github.io_chat_.jpeg)
+##Tecnologias usadas en los proyectos
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
 
