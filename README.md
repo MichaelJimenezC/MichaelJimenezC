@@ -8,7 +8,7 @@ Correo: micjejim@espol.edu.ec
 **Proyecto Terminado**
 [Pagina desplegada](https://michaeljimenezc.github.io/curriculum/)
 [Repositorio](https://github.com/MichaelJimenezC/curriculum.git)
-![Curriculum](img/michaeljimenezc.github.io_curriculum_.jpeg)
+![Curriculum](img/michaeljimenezc.github.io_curriculum_.JPG)
 
 - Landing Page
 **Proyecto Terminado**
