@@ -10,5 +10,7 @@ Correo: micjejim@espol.edu.ec
 [Landin Page FitnessFacil](https://michaeljimenezc.github.io/landing/)
 ![Landin Page FitnessFacil](img/michaeljimenezc.github.io_landing_.jpeg)
 - Weather Dashboard
+[Weather Dashboard](https://michaeljimenezc.github.io/dashboard/)
+![Weather Dashboard](img/michaeljimenezc.github.io_dashboard_.jpeg)
 - Whatsapp clone
 
