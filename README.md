@@ -1,5 +1,5 @@
 # Repositorio Personal
-## Michael Jiménez
+# Michael Jiménez
 ## Información de contacto
 Correo: micjejim@espol.edu.ec
 ## Proyectos
@@ -13,4 +13,6 @@ Correo: micjejim@espol.edu.ec
 [Weather Dashboard](https://michaeljimenezc.github.io/dashboard/)
 ![Weather Dashboard](img/michaeljimenezc.github.io_dashboard_.jpeg)
 - Whatsapp clone
+[Weather Dashboard](https://github.com/MichaelJimenezC/chat.git)
+![Weather Dashboard](img/michaeljimenezc.github.io_chat_.jpeg)
 
