@@ -13,7 +13,7 @@ Correo: micjejim@espol.edu.ec
 
 [Repositorio](https://github.com/MichaelJimenezC/curriculum.git)
 
-![Curriculum](img/michaeljimenezc.github.io_curriculum_.JPG)
+![Curriculum](img/michaeljimenezc.github.io_curriculum_.jpeg)
 
 - Landing Page
 
@@ -42,9 +42,9 @@ Correo: micjejim@espol.edu.ec
 
 [Repositorio](https://github.com/MichaelJimenezC/chat)
 
-![Weather Dashboard](img/michaeljimenezc.github.io_chat_.jpeg)
+![Weather Dashboard](img/michaeljimenezc.github.io_chat_.JPG)
 
-##Tecnologias usadas en los proyectos
+## Tecnologias usadas en los proyectos
 
 - HTML
 
